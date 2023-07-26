@@ -1,1 +1,26 @@
-.DS_Store
+public/
+resources/
+
+### OS Files
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# idea
+.idea/
+# vscode
+.vscode/
+
+## OSX
+.DS_Store/
+
+## Linux
+.directory/
+
+### Hugo
+.hugo_build.lock
+jsconfig.json
+
+### NPM
+node_modules/
